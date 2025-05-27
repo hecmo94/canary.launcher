@@ -16,7 +16,7 @@
 		ResizeMode="NoResize"
 		WindowState="Normal"
 		WindowStartupLocation="CenterScreen"
-		Title="LunariaOT"
+		Title="Tibia Launcher"
 		Loaded="TibiaLauncher_Load">
 	<Grid>
 
